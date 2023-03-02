@@ -1,3 +1,2 @@
 FROM tomcat
-COPY global-master /local/tomcat/webapps/
-
+#COPY global-master /local/tomcat/webapps/
