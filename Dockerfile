@@ -1,2 +1,2 @@
 FROM tomcat
-#COPY global-master /local/tomcat/webapps/
+#COPY shoppincart.war /local/tomcat/webapps/
